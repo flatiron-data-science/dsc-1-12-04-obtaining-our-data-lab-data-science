@@ -3,3 +3,7 @@
 *.pytest_cache
 *.pyc
 *__pycache__
+
+
+#data files are too big so we don't want to upload it to github
+data/
